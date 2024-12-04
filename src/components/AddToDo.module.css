@@ -1,0 +1,11 @@
+.inputBox{
+  width: 100%;
+}
+
+.kgButton{
+  min-width: 80px;
+}
+
+.kgRow{
+  margin: 10px 3px;
+}
